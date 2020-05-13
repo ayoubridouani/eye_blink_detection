@@ -1,7 +1,5 @@
 # eye_blink_detection
 
-
-# real_time_face_recognition
 preview in video: https://www.youtube.com/watch?v=jWtYJc_4ZBg
 
 
